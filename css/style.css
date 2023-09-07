@@ -1,0 +1,618 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(to bottom, rgb(76, 76, 239), rgb(23, 23, 97));
+}
+
+/* Navbar Style*/
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar i:hover,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar i.active {
+  color: rgb(255, 226, 60);
+  font-weight: 700;
+}
+s .navbar i {
+  font-size: 0.8rem;
+  padding: 0 7px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+#bar {
+  font-size: 1.5rem;
+  padding: 7px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: 0.3 ease;
+  color: black;
+}
+
+#bar:hover,
+#bar.active {
+  color: rgb(219, 219, 231);
+}
+/* Hero Section*/
+
+.content {
+  width: 100%;
+  height: 100vh;
+  color: rgb(221, 224, 226);
+}
+
+.judul {
+  color: rgb(221, 224, 226);
+  width: 50%;
+  height: 100vh;
+  padding-left: 8%;
+  background-size: cover;
+  background-position: top center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: justify;
+  float: left;
+}
+
+.gambarkumpul {
+  float: left;
+  width: 50%;
+  height: 100vh;
+  padding-top: 300px;
+  padding-left: 160px;
+}
+
+.Sejarah1 {
+  width: 100%;
+  height: 100vh;
+  background-color: wheat;
+}
+
+.Sejarah2 {
+  margin-top: 8%;
+  margin-bottom: 5%;
+  width: 100%;
+  position: relative;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  text-align: justify;
+}
+
+.sejarah {
+  margin-bottom: 5%;
+  padding-right: 5%;
+  width: 100%;
+  position: relative;
+  color: rgb(237, 237, 237);
+  text-align: left;
+  text-align: justify;
+}
+
+.visi {
+  width: 100%;
+  padding-left: 65%;
+  position: relative;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  text-align: justify;
+}
+
+.male {
+  padding-left: 14%;
+  position: relative;
+}
+
+.txtahli {
+  margin-left: 30%;
+  position: relative;
+  color: rgb(255, 255, 255);
+  padding-right: 40%;
+}
+
+.gmbarlas {
+  position: relative;
+  padding-left: 3%;
+}
+
+.penggaris {
+  position: relative;
+  padding-left: 109%;
+}
+
+.txtkaryawan {
+  color: aliceblue;
+  margin-left: 37%;
+  text-align: justify;
+  font-size: 20px;
+}
+
+#nutup {
+  width: 100%;
+  background-size: cover;
+  height: 120vh;
+  margin-top: 5%;
+}
+
+.tutup {
+  background-size: cover;
+  position: relative;
+}
+
+/*cover section*/
+
+#nutup {
+  background-image: url(../asset/png/pabrik.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#nutup h3 {
+  font-weight: 800;
+  font-size: 70px;
+  text-align: left;
+}
+
+/*portofolio*/
+
+#judulkiri {
+  width: 40%;
+  color: rgb(255, 228, 51);
+  height: 100vh;
+  float: left;
+  font-size: 80px;
+  text-align: justify;
+  font-weight: bolder;
+  padding-top: 15%;
+  padding-left: 10%;
+}
+
+#judulkanan {
+  width: 60%;
+  color: aliceblue;
+  height: 100vh;
+  float: left;
+  padding-top: 17%;
+  font-size: 22px;
+  text-align: justify;
+  line-height: 40px;
+  padding-right: 5%;
+}
+
+.kerjasamaproyek {
+  color: rgb(255, 255, 255);
+  padding-top: 5%;
+  width: 212.4vh;
+  height: 100vh;
+  float: left;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.kanangmbar1 {
+  background-color: aliceblue;
+  padding-left: 5%;
+  padding-top: 10%;
+  font-size: 60px;
+  font-weight: bold;
+  float: left;
+  width: 40%;
+  height: 90vh;
+}
+
+.gmbr1 {
+  padding-left: 5%;
+  font-size: 40px;
+  color: rgb(255, 228, 51);
+  font-weight: bold;
+  width: 60%;
+  float: left;
+  background-color: rgb(105, 190, 255);
+  height: 90vh;
+}
+
+.gmbr2 {
+  padding-left: 5%;
+  width: 60%;
+  height: 90vh;
+  float: left;
+}
+
+.angkut {
+  width: 40%;
+  height: 90vh;
+  font-size: 60px;
+  float: left;
+  font-weight: bold;
+  color: rgb(255, 228, 51);
+  padding-top: 10%;
+}
+
+.temanggung {
+  width: 40%;
+  height: 90vh;
+  float: left;
+  font-size: 60px;
+  float: left;
+  font-weight: bold;
+  background-color: aliceblue;
+  padding-top: 10%;
+  padding-left: 5%;
+}
+
+.gmbar3 {
+  padding-left: 3%;
+  font-size: 60px;
+  width: 60%;
+  height: 90vh;
+  float: left;
+  background-color: rgb(105, 190, 255);
+  padding-top: 1%;
+}
+
+.gmbar4 {
+  padding-left: 12%;
+  padding-left: 5%;
+  width: 60%;
+  height: 90vh;
+  float: left;
+}
+
+.pengelasan {
+  width: 40%;
+  height: 90vh;
+  float: left;
+  font-size: 60px;
+  float: left;
+  font-weight: bold;
+  color: rgb(255, 228, 51);
+  padding-top: 10%;
+  padding-left: 5%;
+}
+
+.melle {
+  height: 90%;
+  width: 100%;
+}
+
+/*jasa*/
+
+#kirijasa {
+  width: 40%;
+  color: rgb(255, 228, 51);
+  height: 100vh;
+  float: left;
+  font-size: 100px;
+  text-align: justify;
+  font-weight: bolder;
+  padding-top: 16%;
+  padding-left: 10%;
+}
+
+#kananjasa {
+  width: 60%;
+  color: aliceblue;
+  height: 100vh;
+  float: left;
+  padding-top: 17%;
+  font-size: 22px;
+  text-align: justify;
+  line-height: 40px;
+  padding-right: 5%;
+}
+
+#modifikasi {
+  color: rgb(161, 220, 255);
+  font-weight: bold;
+  font-size: 80px;
+  padding-left: 5%;
+  width: 100%;
+}
+
+/*jasaa*/
+#penjelasanmod {
+  height: 100%;
+  color: antiquewhite;
+  font-size: 24px;
+  width: 50%;
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  float: left;
+  height: 100vh;
+}
+
+#jasa1 {
+  height: 100%;
+  width: 50%;
+  height: 100vh;
+  padding-left: 2%;
+  float: left;
+}
+
+#jasa2 {
+  height: 100%;
+  width: 50%;
+  height: 100vh;
+  float: left;
+  padding-left: 4%;
+  padding-top: 2%;
+}
+
+#penjelasan2 {
+  width: 50%;
+  color: aliceblue;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  text-align: justify;
+  height: 100vh;
+  float: left;
+  font-size: 24px;
+}
+
+#titlescaling {
+  color: aquamarine;
+  font-weight: bold;
+  font-size: 80px;
+  padding-left: 5%;
+  width: 100%;
+}
+
+#penjelasan3 {
+  height: 100%;
+  color: antiquewhite;
+  font-size: 24px;
+  width: 50%;
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  float: left;
+  height: 100vh;
+}
+
+#jasa3 {
+  height: 100%;
+  width: 50%;
+  height: 100vh;
+  padding-left: 2%;
+  float: left;
+}
+
+#instalasi {
+  color: aquamarine;
+  font-weight: bold;
+  font-size: 80px;
+  padding-left: 5%;
+  width: 100%;
+}
+
+#jasa4 {
+  height: 100%;
+  width: 50%;
+  height: 100vh;
+  float: left;
+  padding-left: 4%;
+  padding-top: 2%;
+}
+
+#penjelasan4 {
+  width: 50%;
+  color: aliceblue;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  text-align: justify;
+  height: 100vh;
+  float: left;
+  font-size: 24px;
+}
+
+#rental {
+  color: aquamarine;
+  font-weight: bold;
+  font-size: 80px;
+  padding-left: 5%;
+  width: 100%;
+}
+
+#jasa5 {
+  float: left;
+  color: aliceblue;
+  width: 50%;
+  height: 80vh;
+  padding-left: 5%;
+}
+
+#penjelasan5 {
+  height: 100%;
+  color: antiquewhite;
+  font-size: 24px;
+  width: 50%;
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  float: left;
+  height: 80vh;
+}
+
+#rectangle {
+  font-size: 1px;
+}
+
+#kolomkontak {
+  height: 100%;
+  width: 100%;
+  height: 25vh;
+}
+
+#tulisjasa {
+  height: 30vh;
+  font-size: 64px;
+  font-weight: bold;
+  color: rgb(255, 228, 51);
+  padding-left: 10%;
+}
+
+#pertama {
+  height: 50vh;
+  width: 50%;
+  color: aliceblue;
+  text-align: justify;
+  padding-top: 5%;
+  padding-left: 10%;
+  font-size: 25px;
+  float: left;
+}
+
+#gambarchat {
+  height: 50vh;
+  width: 50%;
+  float: left;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+#gambarkeduua {
+  height: 70vh;
+  width: 50%;
+  float: left;
+  padding-left: 5%;
+}
+
+#keduua {
+  height: 70vh;
+  width: 50%;
+  float: left;
+  color: aliceblue;
+  text-align: justify;
+  padding-top: 2%;
+  font-size: 25px;
+  float: left;
+}
+
+#keduua p {
+  padding-left: 80px;
+}
+
+.ig {
+  padding-left: 4%;
+}
+
+.igtxt {
+  margin-left: 3%;
+}
+
+#ketiggga {
+  height: 80vh;
+  width: 50%;
+  float: left;
+  color: aliceblue;
+  text-align: justify;
+  padding-top: 5%;
+  padding-left: 10%;
+  font-size: 25px;
+  float: left;
+}
+
+#keempat {
+  height: 80vh;
+  width: 50%;
+  float: left;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+#top {
+  height: 20vh;
+}
+
+#judulbelanja {
+  color: aliceblue;
+  height: 20vh;
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
+}
+
+#produk {
+  width: 100%;
+}
+
+.card:hover {
+  background-color: rgb(255, 228, 51);
+}
+
+.card-fasilitas {
+  font-weight: bold;
+  width: 30%;
+  text-align: center;
+  float: left;
+}
+
+.card-fasilitas2 {
+  width: 70%;
+  float: left;
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 1%;
+  padding-left: 5%;
+}
+
+.card-fasilitas3 {
+  font-weight: bold;
+  width: 30%;
+  text-align: center;
+  float: left;
+}
+.card-fasilitas4 {
+  width: 70%;
+  float: left;
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 1%;
+  padding-left: 5%;
+}
+
+.card-fasilitas5 {
+  width: 30%;
+  float: left;
+}
+
+.card-fasilitas6 {
+  font-size: 23px;
+  width: 70%;
+  float: left;
+  font-weight: bold;
+  padding-top: 1%;
+  padding-left: 5%;
+}
+
+.card-fasilitas7 {
+  font-weight: bold;
+  width: 30%;
+  text-align: center;
+  float: left;
+}
+.card-fasilitas8 {
+  width: 70%;
+  float: left;
+  text-align: left;
+  font-weight: bold;
+  font-size: 19px;
+  padding-left: 5%;
+  padding-top: 8%;
+}

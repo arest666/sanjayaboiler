@@ -1,0 +1,926 @@
+@media screen and (max-width: 400px) {
+  .navbar-toggler {
+    color: rgb(255, 226, 60);
+    font-weight: 700;
+  }
+
+  .navbar-expand-lg {
+    background-color: aquamarine;
+  }
+
+  .judul {
+    width: 90%;
+    height: 80vh;
+    font-size: 11px;
+    margin-top: 30%;
+  }
+
+  .gambarkumpul {
+    width: 5px;
+    height: 5px;
+    padding-left: 11%;
+    width: 100%;
+  }
+
+  .gambarkumpul img {
+    height: 300px;
+    width: 300px;
+    mix-blend-mode: multiply;
+    top: 90%;
+  }
+
+  .male img {
+    background-color: aqua;
+    height: 190px;
+    width: 300px;
+    left: 8%;
+    top: 10%;
+  }
+
+  .visi {
+    color: aliceblue;
+    padding-left: 2%;
+    padding-top: 70%;
+    font-size: 12px;
+  }
+
+  .txtahli h2 {
+    font-size: 36px;
+    height: 35vh;
+    width: 40vh;
+    text-align: right;
+    padding-left: 20%;
+  }
+
+  .gmbarlas img {
+    height: 200px;
+  }
+
+  .penggaris img {
+    height: 100px;
+    left: 20%;
+    background-color: aqua;
+    width: 0px;
+  }
+
+  .txtkaryawan {
+    margin-left: 1%;
+  }
+
+  #nutup h3 {
+    color: black;
+    font-size: 22px;
+  }
+
+  #kolomkontak {
+    height: 100%;
+    width: 100%;
+    height: 25vh;
+  }
+
+  #tulisjasa {
+    height: 30vh;
+    font-size: 37px;
+    font-weight: bold;
+    color: rgb(255, 228, 51);
+    padding-left: 10%;
+  }
+
+  #judulkiri {
+    width: 100%;
+    color: rgb(255, 228, 51);
+    height: 100vh;
+    text-align: justify;
+    font-weight: bolder;
+    padding-top: 15%;
+    padding-left: 10%;
+  }
+
+  #judulkiri a {
+    font-size: 60px;
+  }
+
+  #judulkanan {
+    width: 100%;
+    color: aliceblue;
+    height: 100vh;
+    padding-top: 17%;
+    font-size: 22px;
+    text-align: justify;
+    line-height: 40px;
+    padding-right: 5%;
+  }
+
+  .kerjasamaproyek {
+    color: rgb(255, 255, 255);
+    padding-top: 5%;
+    height: 100vh;
+    width: 100%;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .kerjasamaproyek img {
+    height: 0px;
+    width: 0px;
+  }
+
+  .kanangmbar1 {
+    background-color: aliceblue;
+    padding-left: 5%;
+    padding-top: 10%;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    width: 100%;
+    height: 30vh;
+  }
+
+  .gmbr1 {
+    font-size: 40px;
+    color: rgb(255, 228, 51);
+    font-weight: bold;
+    width: 60%;
+    float: left;
+    height: 40vh;
+    background-color: transparent;
+  }
+
+  .gmbr1 img {
+    width: 100%;
+    background-color: transparent;
+  }
+
+  .gmbr2 {
+    width: 100%;
+    height: 40vh;
+    padding-left: 52px;
+  }
+
+  .gmbr2 img {
+    padding-left: 52px;
+  }
+
+  .angkut {
+    width: 100%;
+    height: 30vh;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 228, 51);
+    padding-left: 22px;
+  }
+
+  .temanggung {
+    width: 100%;
+    height: 50vh;
+    float: left;
+    font-size: 40px;
+    float: left;
+    font-weight: bold;
+    background-color: aliceblue;
+    padding-left: 5%;
+  }
+
+  .gmbar3 {
+    font-size: 60px;
+    width: 60%;
+    height: 30vh;
+    padding-left: 144px;
+    background-color: transparent;
+  }
+
+  .gmbar4 {
+    padding-top: 12%;
+    width: 60%;
+    height: 30vh;
+    float: left;
+  }
+
+  .pengelasan {
+    width: 40%;
+    height: 30vh;
+    float: left;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    color: rgb(255, 228, 51);
+    padding-top: 13%;
+    padding-left: 5%;
+  }
+
+  .melle {
+    height: 10%;
+    width: 100%;
+  }
+
+  #pertama {
+    height: 30vh;
+    width: 50%;
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 15%;
+    padding-left: 0%;
+    font-size: 15px;
+  }
+
+  #gambarchat {
+    height: 50vh;
+    width: 50%;
+    height: 10px;
+    padding-left: 15%;
+    padding-top: 5%;
+  }
+
+  #gambarchat img {
+    height: 100px;
+    margin-top: 40%;
+  }
+
+  #gambarkeduua {
+    height: 70vh;
+    width: 50%;
+    margin-bottom: -60%;
+  }
+
+  #gambarkeduua img {
+    height: 120px;
+    margin-top: 220%;
+  }
+
+  #keduua {
+    height: 50vh;
+    width: 100%;
+    margin-top: 10%;
+    float: left;
+    color: aliceblue;
+    text-align: justify;
+    font-size: 15px;
+    float: left;
+  }
+
+  #keduua li {
+    margin-right: 20%;
+  }
+
+  #keduua img {
+    height: 40px;
+  }
+
+  .ig {
+    padding-left: 8%;
+    height: 30px;
+  }
+
+  .igtxt {
+    margin-left: 5%;
+  }
+
+  #ketiggga {
+    height: 50vh;
+    width: 50%;
+    color: aliceblue;
+    text-align: left;
+    padding-top: 5%;
+    font-size: 15px;
+  }
+
+  #ketiggga ul {
+    color: rgb(252, 252, 252);
+    padding-left: 1%;
+    text-align: justify;
+  }
+
+  #keempat {
+    height: 80vh;
+    width: 50%;
+  }
+
+  #keempat iframe {
+    width: 140px;
+    height: 200px;
+    bottom: 20px;
+  }
+
+  #rectangle {
+    height: 160vh;
+  }
+
+  #kirijasa {
+    width: 100%;
+    color: rgb(255, 228, 51);
+    height: 40vh;
+    font-size: 120px;
+    margin-top: 10%;
+    text-align: justify;
+    font-weight: bolder;
+  }
+
+  #kananjasa {
+    width: 100%;
+    color: aliceblue;
+    height: 60vh;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 5%;
+    padding-top: 2%;
+    line-height: 40px;
+  }
+
+  #modifikasi {
+    color: rgb(161, 220, 255);
+    font-weight: bold;
+    font-size: 60px;
+    width: 100%;
+    margin-top: 15%;
+  }
+
+  #penjelasanmod {
+    height: 100%;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    height: 70vh;
+  }
+
+  #jasa1 {
+    height: 100%;
+    width: 100%;
+    height: 50vh;
+    padding-left: 2%;
+  }
+
+  #jasa1 img {
+    height: 310px;
+  }
+
+  #jasa2 {
+    height: 100%;
+    width: 100%;
+    height: 55vh;
+  }
+
+  #jasa2 img {
+    height: 310px;
+    padding-left: 6%;
+  }
+
+  #penjelasan2 {
+    width: 100%;
+    color: aliceblue;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    text-align: justify;
+    height: 70vh;
+    font-size: 15px;
+  }
+
+  #titlescaling {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 70px;
+    padding-left: 5%;
+    width: 100%;
+  }
+
+  #penjelasan3 {
+    height: 100%;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    height: 70vh;
+  }
+
+  #jasa3 {
+    width: 100%;
+    height: 55vh;
+    padding-left: 2%;
+  }
+
+  #jasa3 img {
+    height: 300px;
+  }
+
+  #instalasi {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 70px;
+    padding-left: 5%;
+    width: 100%;
+  }
+
+  #jasa4 {
+    height: 100%;
+    width: 100%;
+    height: 55vh;
+    padding-left: 4%;
+    padding-top: 2%;
+  }
+
+  #jasa4 img {
+    height: 300px;
+    padding-left: 5%;
+  }
+
+  #penjelasan4 {
+    width: 100%;
+    color: aliceblue;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    text-align: justify;
+    height: 80vh;
+    font-size: 15px;
+  }
+
+  #rental {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 80px;
+    padding-left: 5%;
+    width: 100%;
+  }
+
+  #jasa5 {
+    color: aliceblue;
+    width: 100%;
+    height: 50vh;
+    padding-left: 5%;
+  }
+
+  #jasa5 img {
+    height: 300px;
+  }
+
+  #penjelasan5 {
+    height: 100%;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    height: 50vh;
+  }
+
+  #judulbelanja {
+    color: aliceblue;
+    height: 20vh;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+  }
+
+  #produk {
+    width: 100%;
+    margin-top: 35%;
+  }
+
+  .card:hover {
+    background-color: rgb(255, 228, 51);
+  }
+
+  .card-fasilitas {
+    font-weight: bold;
+    width: 30%;
+    text-align: center;
+    float: left;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .navbar-toggler {
+    color: rgb(255, 226, 60);
+    font-weight: 700;
+  }
+
+  .navbar-expand-lg {
+    background-color: aquamarine;
+  }
+
+  .judul {
+    width: 90%;
+    height: 80vh;
+    font-size: 11px;
+    margin-top: 30%;
+  }
+
+  .gambarkumpul {
+    width: 5px;
+    height: 5px;
+    padding-left: 11%;
+    width: 100%;
+  }
+
+  .gambarkumpul img {
+    height: 300px;
+    width: 300px;
+    mix-blend-mode: multiply;
+    top: 90%;
+  }
+
+  .male img {
+    background-color: aqua;
+    height: 190px;
+    width: 300px;
+    left: 8%;
+    top: 10%;
+  }
+
+  .visi {
+    color: aliceblue;
+    padding-left: 2%;
+    padding-top: 70%;
+    font-size: 12px;
+  }
+
+  .txtahli h2 {
+    font-size: 36px;
+    height: 35vh;
+    width: 40vh;
+    text-align: right;
+    padding-left: 20%;
+  }
+
+  .gmbarlas img {
+    height: 200px;
+  }
+
+  .penggaris img {
+    height: 100px;
+    left: 20%;
+    background-color: aqua;
+    width: 0px;
+  }
+
+  .txtkaryawan {
+    margin-left: 1%;
+  }
+
+  #nutup h3 {
+    color: black;
+    font-size: 22px;
+  }
+
+  #judulkiri {
+    width: 90%;
+    color: rgb(255, 228, 51);
+    height: 50vh;
+    font-size: 70px;
+    margin-top: 20%;
+  }
+
+  #judulkanan {
+    width: 90%;
+    color: aliceblue;
+    height: 80vh;
+    padding-top: 7%;
+    font-size: 19px;
+    text-align: justify;
+    line-height: 40px;
+    margin-left: 8%;
+  }
+
+  .gmbr1 {
+    width: 90%;
+  }
+
+  .gmbr1 img {
+    width: 360px;
+    padding-right: 20%;
+  }
+
+  .gmbr2 {
+    width: 90%;
+  }
+
+  .gmbr2 img {
+    width: 360px;
+    margin-left: -10%;
+  }
+
+  .gmbar3 {
+    width: 90%;
+  }
+
+  .gmbar3 img {
+    height: 220px;
+    margin-left: -60%;
+  }
+
+  .gmbar4 img {
+    width: 350px;
+    margin-top: 2%;
+    margin-left: -6%;
+    margin-bottom: 10%;
+  }
+
+  #kolomkontak {
+    height: 100%;
+    width: 100%;
+    height: 25vh;
+  }
+
+  #tulisjasa {
+    height: 30vh;
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(255, 228, 51);
+    padding-left: 10%;
+  }
+
+  #pertama {
+    height: 30vh;
+    width: 50%;
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 15%;
+    padding-left: 0%;
+    font-size: 15px;
+  }
+
+  #gambarchat {
+    height: 50vh;
+    width: 50%;
+    height: 10px;
+    padding-left: 15%;
+    padding-top: 5%;
+  }
+
+  #gambarchat img {
+    height: 100px;
+    margin-top: 40%;
+  }
+
+  #gambarkeduua {
+    height: 70vh;
+    width: 50%;
+    margin-bottom: -60%;
+  }
+
+  #gambarkeduua img {
+    height: 120px;
+    margin-top: 220%;
+  }
+
+  #keduua {
+    height: 50vh;
+    width: 100%;
+    margin-top: 10%;
+    float: left;
+    color: aliceblue;
+    text-align: justify;
+    font-size: 15px;
+    float: left;
+  }
+
+  #keduua li {
+    margin-right: 20%;
+  }
+
+  #keduua img {
+    height: 40px;
+  }
+
+  .ig {
+    padding-left: 8%;
+    height: 30px;
+  }
+
+  .igtxt {
+    margin-left: 5%;
+  }
+
+  #ketiggga {
+    height: 50vh;
+    width: 50%;
+    color: aliceblue;
+    text-align: left;
+    padding-top: 5%;
+    font-size: 15px;
+  }
+
+  #ketiggga ul {
+    color: rgb(252, 252, 252);
+    padding-left: 1%;
+    text-align: justify;
+  }
+
+  #keempat {
+    height: 80vh;
+    width: 50%;
+  }
+
+  #keempat iframe {
+    width: 140px;
+    height: 200px;
+    bottom: 20px;
+  }
+
+  #rectangle {
+    height: 160vh;
+  }
+
+  #kirijasa {
+    width: 100%;
+    color: rgb(255, 228, 51);
+    height: 40vh;
+    font-size: 120px;
+    margin-top: 10%;
+    text-align: justify;
+    font-weight: bolder;
+  }
+
+  #kananjasa {
+    width: 100%;
+    color: aliceblue;
+    height: 60vh;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 5%;
+    padding-top: 2%;
+    line-height: 40px;
+  }
+
+  #modifikasi {
+    color: rgb(161, 220, 255);
+    font-weight: bold;
+    font-size: 60px;
+    width: 100%;
+    margin-top: 15%;
+  }
+
+  #penjelasanmod {
+    height: 100%;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    height: 70vh;
+  }
+
+  #jasa1 {
+    height: 100%;
+    width: 100%;
+    height: 50vh;
+    padding-left: 2%;
+  }
+
+  #jasa1 img {
+    height: 310px;
+  }
+
+  #jasa2 {
+    height: 100%;
+    width: 100%;
+    height: 55vh;
+  }
+
+  #jasa2 img {
+    height: 310px;
+    padding-left: 6%;
+  }
+
+  #penjelasan2 {
+    width: 100%;
+    color: aliceblue;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    text-align: justify;
+    height: 70vh;
+    font-size: 15px;
+  }
+
+  #titlescaling {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 70px;
+    padding-left: 5%;
+    width: 100%;
+  }
+
+  #penjelasan3 {
+    height: 100%;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    height: 70vh;
+  }
+
+  #jasa3 {
+    width: 100%;
+    height: 55vh;
+    padding-left: 2%;
+  }
+
+  #jasa3 img {
+    height: 300px;
+  }
+
+  #instalasi {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 70px;
+    padding-left: 5%;
+    width: 100%;
+  }
+
+  #jasa4 {
+    height: 100%;
+    width: 100%;
+    height: 55vh;
+    padding-left: 4%;
+    padding-top: 2%;
+  }
+
+  #jasa4 img {
+    height: 300px;
+    padding-left: 5%;
+  }
+
+  #penjelasan4 {
+    width: 100%;
+    color: aliceblue;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    text-align: justify;
+    height: 80vh;
+    font-size: 15px;
+  }
+
+  #rental {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 80px;
+    padding-left: 5%;
+    width: 100%;
+  }
+
+  #jasa5 {
+    color: aliceblue;
+    width: 100%;
+    height: 50vh;
+    padding-left: 5%;
+  }
+
+  #jasa5 img {
+    height: 300px;
+  }
+
+  #penjelasan5 {
+    height: 100%;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    height: 50vh;
+  }
+
+  #judulbelanja {
+    color: aliceblue;
+    height: 20vh;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+  }
+
+  #produk {
+    width: 100%;
+    margin-top: 35%;
+  }
+
+  .card:hover {
+    background-color: rgb(255, 228, 51);
+  }
+
+  .card-fasilitas {
+    font-weight: bold;
+    width: 30%;
+    text-align: center;
+    float: left;
+  }
+}
